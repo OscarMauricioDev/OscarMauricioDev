@@ -12,22 +12,12 @@
 </p>
 <br>
 
-## Mis Herramientas de Desarrollo 💻
-
-<!-- skill icons -->
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,github,vscode" alt="Skill Icons" />
-  </a>
-</p>
-<br>
-
-## Estadísticas de GitHub 📊
+# Estadísticas de GitHub 📊
 
 <p align="center">
   <!-- GitHub Stats -->
-  <a href="https://github.com/OscarMauricioDev" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tu-nombre-de-usuario-real&theme=github_dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/OscarMauricioDev" target="_blank"> <!-- ¡TU NOMBRE DE USUARIO REAL! -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=OscarMauricioDev&theme=github_dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -38,7 +28,7 @@
 
 <p align="center">
   <!-- Top Langs -->
-  <a href="https://github.com/OscarMauricioDev" target="_blank">
+  <a href="https://github.com/OscarMauricioDev" target="_blank"> <!-- ¡TU NOMBRE DE USUARIO REAL! -->
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OscarMauricioDev&theme=github_dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide_title=true" alt="Top Languages" />
   </a>
 </p>
@@ -49,4 +39,3 @@
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=OscarMauricioDev&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&grammar=false" alt="GitHub Trophies" />
   </a>
 </div>
-
