@@ -25,7 +25,7 @@
 <!-- skill icons -->
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,php,python,dotnet,mysql,sqlite,firebase,git,github,docker,materialui,postman,eclipse,vscode,bash,linux&perline=10" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,github,eclipse,vscode" alt="Skill Icons" />
   </a>
 </p>
 <br>
