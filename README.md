@@ -1,7 +1,6 @@
 <h1 align="center">Hola soy Oscar Mauricio Ballesteros Montoya  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <p align="center">
-  🎓<h2>Estudiante de Ingeniería en Sistemas | Corporación Universitaria Remington (CUR)</h2>
-</p>
+  
+  🎓<h3>Estudiante de Ingeniería en Sistemas | Corporación Universitaria Remington (CUR)</h3>
 <br>
 
 # Sobre mi 😃
