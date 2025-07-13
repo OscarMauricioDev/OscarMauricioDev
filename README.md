@@ -35,13 +35,6 @@
   <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OscarMauricioDev&theme=github_dark&hide_border=false&stroke=true" alt="Streak Stats" />
 </p>
 
-<p align="center">
-  <!-- Top Langs -->
-  <a href="https://github.com/OscarMauricioDev" target="_blank"> <!-- ¡TU NOMBRE DE USUARIO REAL! -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OscarMauricioDev&theme=github_dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide_title=true" alt="Top Languages" />
-  </a>
-</p>
-
 <!-- GitHub Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source" target="_blank">
