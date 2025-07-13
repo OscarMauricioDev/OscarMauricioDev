@@ -23,10 +23,5 @@
 </p>
 <br>
 
-<div id="proyectos">
-  <h2>Algunos Proyectos 🚀</h2>
-</div>
-<br>
-
 ## Estadísticas de GitHub 📊
 
