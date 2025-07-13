@@ -4,6 +4,17 @@
 </p>
 <br>
 
+## Mis Herramientas de Desarrollo 💻
+
+<!-- skill icons -->
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,github,vscode" alt="Skill Icons" />
+  </a>
+</p>
+<br>
+
+
 ## Sobre mi 😃
 
 <p align="justify">
