@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋 soy Oscar Mauricio ✨ </h1>
 
 <p align="center">
-  <a href="oscamontoya27@gmail.com" target="_blank"> <!-- Correo actualizado -->
+  <a href="mailto:oscamontoya27@gmail.com"> <!-- Correo actualizado, sin target="_blank" -->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/OscarMauricioDev" target="_blank"> <!-- ¡REEMPLAZA ESTO CON TU NOMBRE DE USUARIO REAL DE GITHUB! -->
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 <br>
@@ -13,7 +11,7 @@
 ## Sobre mi 😃
 
 <p align="justify">
-  Soy un estudiante apasionado de Ingeniería en Sistemas, cursando mi quinto semestre y en constante aprendizaje. Me entusiasma la idea de aplicar los conocimientos teóricos en proyectos prácticos y explorar el mundo del desarrollo de software. Disfruto aprendiendo y compartiendo lo que descubro, tanto en mis estudios como a través de pequeños proyectos que me permiten experimentar con diferentes tecnologías. Estoy enfocado en mi crecimiento profesional y en adquirir experiencia para contribuir en el ámbito de la tecnología.
+  Soy un estudiante de Ingeniería en Sistemas, en constante aprendizaje. Me entusiasma la idea de aplicar los conocimientos teóricos en proyectos prácticos y explorar el mundo del desarrollo de software. Disfruto aprendiendo y compartiendo lo que descubro, tanto en mis estudios como a través de pequeños proyectos que me permiten experimentar con diferentes tecnologías. Estoy enfocado en mi crecimiento profesional y en adquirir experiencia para contribuir en el ámbito de la tecnología.
 </p>
 <br>
 
@@ -22,7 +20,7 @@
 <!-- skill icons -->
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,github,eclipse,vscode" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,github,vscode" alt="Skill Icons" />
   </a>
 </p>
 <br>
