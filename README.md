@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋 soy Oscar Mauricio / unsimpleDev ✨ </h1>
+<h1 align="center">Hola 👋 soy Oscar Mauricio ✨ </h1>
 
 <p align="center">
-  <a href="mailto:unsimpledev@gmail.com" target="_blank">
+  <a href="mailto:oscamontoya27@gmail.com" target="_blank"> <!-- Correo actualizado -->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/unsimpledev" target="_blank"> <!-- Reemplaza con tu GitHub -->
+  <a href="https://github.com/tu-nombre-de-usuario-real" target="_blank"> <!-- ¡REEMPLAZA ESTO CON TU NOMBRE DE USUARIO REAL DE GITHUB! -->
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.youtube.com/channel/UCd4UjE3o91gR63tF8_w9N7Q" target="_blank"> <!-- Reemplaza con tu canal de YouTube -->
+  <a href="https://www.youtube.com/channel/TU_ID_DEL_CANAL_YOUTUBE" target="_blank"> <!-- ¡PON AQUÍ EL ENLACE A TU CANAL REAL DE YOUTUBE! -->
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
@@ -44,7 +44,7 @@
           <a href="https://youtu.be/rISmdhlhOPM" target="_blank">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube SMS Gateway" />
           </a>
-          <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="_blank">
+          <a href="https://github.com/tu-nombre-de-usuario-real/ProyectoSMSGateway" target="_blank"> <!-- ¡REEMPLAZA CON TU NOMBRE DE USUARIO! -->
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub SMS Gateway" />
           </a>
         </p>
@@ -59,7 +59,7 @@
           <a href="https://youtu.be/fiUkA2OZQjs" target="_blank">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Notificaciones Android" />
           </a>
-          <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="_blank">
+          <a href="https://github.com/tu-nombre-de-usuario-real/ProyectoNotificaciones" target="_blank"> <!-- ¡REEMPLAZA CON TU NOMBRE DE USUARIO! -->
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Notificaciones Android" />
           </a>
         </p>
@@ -74,7 +74,7 @@
           <a href="https://youtu.be/py31Y1Ku4Es" target="_blank">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube MiChatGPT" />
           </a>
-          <a href="https://github.com/unsimpledev/MiChatGPT" target="_blank">
+          <a href="https://github.com/tu-nombre-de-usuario-real/MiChatGPT" target="_blank"> <!-- ¡REEMPLAZA CON TU NOMBRE DE USUARIO! -->
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub MiChatGPT" />
           </a>
         </p>
@@ -89,7 +89,7 @@
           <a href="https://youtu.be/FbQtooM3UIs" target="_blank">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Traductor ChatGPT" />
           </a>
-          <a href="https://github.com/unsimpledev/MiTraductor" target="_blank">
+          <a href="https://github.com/tu-nombre-de-usuario-real/MiTraductor" target="_blank"> <!-- ¡REEMPLAZA CON TU NOMBRE DE USUARIO! -->
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub MiTraductor" />
           </a>
         </p>
@@ -103,24 +103,24 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <a href="https://github.com/unsimpledev" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/tu-nombre-de-usuario-real" target="_blank"> <!-- ¡REEMPLAZA CON TU NOMBRE DE USUARIO! -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tu-nombre-de-usuario-real&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
   </a>
   
   <!-- Streak Stats -->
-  <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false&stroke=true" alt="Streak Stats" />
+  <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tu-nombre-de-usuario-real&theme=dark&hide_border=false&stroke=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
   <!-- Top Langs -->
-  <a href="https://github.com/unsimpledev" target="_blank">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide_title=true" alt="Top Languages" />
+  <a href="https://github.com/tu-nombre-de-usuario-real" target="_blank"> <!-- ¡REEMPLAZA CON TU NOMBRE DE USUARIO! -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tu-nombre-de-usuario-real&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide_title=true" alt="Top Languages" />
   </a>
 </p>
 
 <!-- GitHub Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source" target="_blank">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&grammar=false" alt="GitHub Trophies" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=tu-nombre-de-usuario-real&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&grammar=false" alt="GitHub Trophies" />
   </a>
 </div>
