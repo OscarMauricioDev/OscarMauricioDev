@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy Oscar Mauricio ✨ </h1>
 
 <p align="center">
-  <a href="mailto:oscamontoya27@gmail.com" target="_blank"> <!-- Correo actualizado -->
+  <a href="oscamontoya27@gmail.com" target="_blank"> <!-- Correo actualizado -->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/OscarMauricioDev" target="_blank"> <!-- ¡REEMPLAZA ESTO CON TU NOMBRE DE USUARIO REAL DE GITHUB! -->
