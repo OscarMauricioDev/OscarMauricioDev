@@ -1,6 +1,6 @@
 <h1 align="center">Hola soy Oscar Mauricio Ballesteros Montoya  </h1>
   
-<h3>🎓 Estudiante de Ingeniería en Sistemas | | Corporación Universitaria Remington (CUR)</h3>
+<h3> 💻 Desarrollador de Software | Backend | Estudiante de Ingeniería en Sistemas | Corporación Universitaria Remington (CUR)</h3>
 <br>
 
 # Sobre mi 
