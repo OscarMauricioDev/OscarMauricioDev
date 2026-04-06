@@ -32,6 +32,15 @@
 <p align="center">
   <!-- Streak Stats -->
   <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OscarMauricioDev&theme=github_dark&hide_border=false&stroke=true" alt="Streak Stats" />
+
+  ### Mis Logros (Trophies) 🏆
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://vercel.app" alt="OscarMauricioDev Trophies" />
+  </a>
+</p>
+
 </p>
 
 <!-- GitHub Trophies -->
