@@ -43,9 +43,20 @@
 
 </p>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source" target="_blank">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=OscarMauricioDev&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&grammar=false" alt="GitHub Trophies" />
-  </a>
+# Estadísticas de GitHub 📊
+
+<p align="center">
+  <!-- Estadísticas Principales -->
+  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+  
+  <!-- Racha (Streak) -->
+  <img src="https://herokuapp.com" alt="Streak Stats" height="150" />
+</p>
+
+# Mis Logros (Trophies) 🏆
+
+<p align="center">
+  <img src="https://vercel.app" alt="OscarMauricioDev Trophies" />
+</p>
+
 </div>
