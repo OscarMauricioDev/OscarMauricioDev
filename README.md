@@ -42,13 +42,5 @@
 </p>
 
 </p>
-# Estadísticas de GitHub 📊
-
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
 
 </div>
