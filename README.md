@@ -42,21 +42,13 @@
 </p>
 
 </p>
-
 # Estadísticas de GitHub 📊
 
 <p align="center">
-  <!-- Estadísticas Principales -->
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  
-  <!-- Racha (Streak) -->
-  <img src="https://herokuapp.com" alt="Streak Stats" height="150" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
-# Mis Logros (Trophies) 🏆
-
-<p align="center">
-  <img src="https://vercel.app" alt="OscarMauricioDev Trophies" />
-</p>
 
 </div>
