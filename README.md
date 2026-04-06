@@ -40,27 +40,6 @@
     <img src="https://vercel.app" alt="OscarMauricioDev Trophies" />
   </a>
 </p>
-
-# Estadísticas de GitHub 📊
-
-<p align="center">
-  <!-- Estadísticas Principales -->
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Racha (Streak) -->
-  <img src="https://herokuapp.com" alt="Streak Stats" />
-</p>
-
-# Mis Logros (Trophies) 🏆
-
-<p align="center">
-  <!-- Trofeos -->
-  <img src="https://vercel.app" alt="OscarMauricioDev Trophies" />
-</p>
-
-
 </p>
 
 </div>
